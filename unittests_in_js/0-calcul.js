@@ -6,3 +6,4 @@ module.exports = function calculateNumber (a, b = 0) {
   
     return Math.round(aNum) + Math.round(bNum);
   };
+  
